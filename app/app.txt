@@ -1,1 +1,1 @@
-
+this is the standalone app made with auto py to exe
